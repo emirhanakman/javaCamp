@@ -1,0 +1,18 @@
+package intro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		//camelCase
+		// don't repeat yourself
+		// TODO Auto-generated method stub
+		System.out.println("Merhaba");
+		String internetSubeButonu="Ecrin Ceylin";
+		System.out.println(internetSubeButonu);
+		double dolarDun = 8.15;
+		double dolarBugun = 8.16;
+		int vade=36;
+		boolean dustuMu = true;
+	}
+
+}
