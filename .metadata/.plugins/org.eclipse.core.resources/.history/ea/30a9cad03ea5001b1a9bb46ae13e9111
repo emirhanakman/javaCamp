@@ -49,7 +49,7 @@ public class Main {
 		category2.name="Ev/Bahçe";
 		
 		ProductManager productManager = new ProductManager();
-		productManager.addToCart(); //metot geldi.
+		
 		
 	}
 

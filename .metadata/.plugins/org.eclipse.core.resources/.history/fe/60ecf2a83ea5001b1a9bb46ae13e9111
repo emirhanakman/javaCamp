@@ -48,9 +48,6 @@ public class Main {
 		category2.id=2;
 		category2.name="Ev/Bahçe";
 		
-		ProductManager productManager = new ProductManager();
-		productManager.addToCart(); //metot geldi.
-		
 	}
 
 }
