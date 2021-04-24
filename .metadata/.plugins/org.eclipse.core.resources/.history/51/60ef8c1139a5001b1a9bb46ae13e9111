@@ -31,8 +31,7 @@ public class Main {
 		product3.unitPrice=10000;
 		product3.detail="8 GB RAM";*/
 		Product product1 = new Product(1,"Lenovo V14",15000,"16 GB RAM");
-		Product product2 = new Product(2,"Lenovo V15",16000,"8 GB RAM");
-		Product product3 = new Product(3,"HP 5",10000,"4 GB RAM");
+		
 		Product[] products = {product1, product2, product3};
 		
 		for (Product product : products) {
