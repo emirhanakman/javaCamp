@@ -50,9 +50,7 @@ public class Main {
 		
 		ProductManager productManager = new ProductManager();
 		//productManager.addToCart(); //metot geldi.
-		productManager.addToCart(product1); //parametreli metot.
-		productManager.addToCart(product2);
-		productManager.addToCart(product3);
+		productManager.addToCart(); //parametreli metot.
 		
 	}
 

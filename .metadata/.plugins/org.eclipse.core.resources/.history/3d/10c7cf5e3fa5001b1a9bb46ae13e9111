@@ -49,10 +49,8 @@ public class Main {
 		category2.name="Ev/Bahçe";
 		
 		ProductManager productManager = new ProductManager();
-		//productManager.addToCart(); //metot geldi.
-		productManager.addToCart(product1); //parametreli metot.
-		productManager.addToCart(product2);
-		productManager.addToCart(product3);
+		productManager.addToCart(); //metot geldi.
+		productManager.addToCart(); //parametreli metot.
 		
 	}
 
