@@ -56,7 +56,6 @@ public class Main {
 			System.out.println("------------");
 			System.out.println(krediler[i]);
 		}
-		//21.04.2021
 	}
 
 }

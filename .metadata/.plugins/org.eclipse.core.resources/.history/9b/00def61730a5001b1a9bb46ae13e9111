@@ -11,9 +11,6 @@ public class Main {
 				
 		};*/
 		
-		Product[] products = {};
-		System.out.println(products.length);
-		
 	}
 
 }
