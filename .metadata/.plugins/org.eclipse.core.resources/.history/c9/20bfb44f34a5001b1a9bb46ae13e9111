@@ -28,7 +28,7 @@ public class Main {
 		product3.unitPrice=10000;
 		product3.detail="8 GB RAM";
 		
-		Product[] products = {product1, product2, product3};
+		Product[] products = {product1};
 		System.out.println(products.length);
 		
 	}
