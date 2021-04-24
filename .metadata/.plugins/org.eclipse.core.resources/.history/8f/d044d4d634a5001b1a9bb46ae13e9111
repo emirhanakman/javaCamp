@@ -1,7 +1,5 @@
 package oopIntro;
 
-import java.util.Iterator;
-
 public class Main {
 
 	public static void main(String[] args) {	
@@ -31,19 +29,7 @@ public class Main {
 		product3.detail="8 GB RAM";
 		
 		Product[] products = {product1, product2, product3};
-		
-		for (Product product : products) {
-			System.out.println(product.name);
-		}
 		System.out.println(products.length);
-		
-		Category category1= new Category();
-		category1.id=1;
-		category1.name="Bilgisayar";
-		
-		Category category2= new Category();
-		category2.id=2;
-		category2.name="Ev/Bahçe";
 		
 	}
 

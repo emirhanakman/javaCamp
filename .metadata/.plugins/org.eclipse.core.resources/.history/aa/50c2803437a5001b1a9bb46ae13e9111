@@ -41,10 +41,6 @@ public class Main {
 		category1.id=1;
 		category1.name="Bilgisayar";
 		
-		Category category2= new Category();
-		category2.id=2;
-		category2.name="Ev/Bahçe";
-		
 	}
 
 }
