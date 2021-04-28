@@ -53,7 +53,7 @@ public class Main {
 		productManager.addToCart(product1); //parametreli metot.
 		productManager.addToCart(product2);
 		productManager.addToCart(product3);
-		
+		//this self class
 	}
 
 }
