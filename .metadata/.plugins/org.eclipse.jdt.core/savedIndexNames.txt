@@ -1,5 +1,1 @@
-INDEX VERSION 1.131+C:\Users\emirh\Documents\GitHub\javaCamp\.metadata\.plugins\org.eclipse.jdt.core
-278804527.index
-380197650.index
-2584113116.index
-1695662857.index
+INDEX VERSION 1.131+C:\Users\emirh\OneDrive\Belgeler\GitHub\javaCamp\.metadata\.plugins\org.eclipse.jdt.core
